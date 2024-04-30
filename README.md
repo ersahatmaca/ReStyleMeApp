@@ -1,1 +1,1 @@
-# ReStyleMeApp
+# TinyArtistApp
